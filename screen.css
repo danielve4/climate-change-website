@@ -7,3 +7,18 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* ===== BASE STYLES ===== */
+
+html {
+  font-size: 1.125em;     /*18px*/
+  line-height: 1.222em;   /*22px is 1 gridline at 18px*/
+  background-color: #37003C;
+  color: #fff;
+  font-family: "Helvetica Neue",Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 1.728em;  /*31.104px*/
+  line-height: 1.4146; /*44px gridline at 31.104px*/
+  font-weight: 600;
+  color: #00FE87;
+}
